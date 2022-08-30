@@ -10,8 +10,8 @@ const portofolio = [
   {
     id:1,
     image:PortoImg1,
-    title:'Application Demo 1',
-    github: 'https://github.com',
+    title:'Web Portofolio React',
+    github: 'https://github.com/aleksoyy/portofolio_website',
     demo: 'https://google.com'
   },
   {
